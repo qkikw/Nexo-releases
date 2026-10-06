@@ -1,7 +1,7 @@
 {
-  "version": "0.8.7",
-  "url": "https://github.com/qkikw/Nexo-releases/releases/download/v0.8.7/NexoSetup-0.8.7-x64.exe",
-  "sha256": "1272ff8306d0a459c9aade1d2029f9d317152af1d1eb2d5c8dcaec7101487a77",
-  "size": 138923418,
-  "notesUrl": "https://github.com/qkikw/Nexo-releases/releases/tag/v0.8.7"
+  "version": "0.8.8",
+  "url": "https://github.com/qkikw/Nexo-releases/releases/download/v0.8.8/NexoSetup-0.8.8-x64.exe",
+  "sha256": "97b2e563532511dbb519d66795da0fb9f9c2435a4eaedb73b9909887e80cb770",
+  "size": 138923889,
+  "notesUrl": "https://github.com/qkikw/Nexo-releases/releases/tag/v0.8.8"
 }
